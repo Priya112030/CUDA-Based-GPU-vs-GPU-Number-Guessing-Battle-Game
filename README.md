@@ -20,6 +20,7 @@ C++
 Google Colab / CUDA Environment
 CUDA Runtime API
 ## Project Structure
+```
 GPU-Number-Battle-CUDA/
 │
 ├── gpu_number_battle.cu
@@ -27,7 +28,7 @@ GPU-Number-Battle-CUDA/
 ├── output.txt
 ├── execution_log.txt
 └── demo_video_link.txt
-
+```
 ## Program
 ```
 %%writefile gpu_number_battle.cu
